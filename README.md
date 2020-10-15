@@ -8,10 +8,13 @@ Using SDL (libsdl2-dev)
 
 ### TODO
 
-* player + world
-* control player wasd + space
+* gravity? 
+* enemies
+* goal
 
 ### DONE
 
 * Framerate display
+* player + world
+* control player wasd + space
 

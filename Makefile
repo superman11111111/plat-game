@@ -4,6 +4,6 @@ all : clean compile run
 clean : 
 	rm -f game.bin
 compile : game.c
-	$(CC) game.c -lSDL2 -lSDL2_ttf -o game.bin
+	$(CC) game.c -lSDL2 -lSDL2_image -lSDL2_ttf  -o game.bin
 run : game.bin
 	./game.bin
