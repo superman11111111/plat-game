@@ -10,7 +10,7 @@
 #define SCREEN_WIDTH 640
 #define SCREEN_HEIGHT 400
 #define REFRESH_RATE 20 
-#define SPEED 3
+#define SPEED 10
 
 SDL_Window* window;
 SDL_Surface* screen;
