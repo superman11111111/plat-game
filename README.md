@@ -6,6 +6,9 @@
 
 Using SDL (libsdl2-dev)
 
+This tutorial is a huge help:
+https://lazyfoo.net/tutorials/SDL/
+
 ### TODO
 
 * gravity? 
